@@ -3,8 +3,8 @@ var commonFunction = require("../commonFunction/commonFunction")
 var cloudinary = require('cloudinary').v2
 cloudinary.config({
     cloud_name: "dcr0kojmy",
-    api_key: "715972146573329",
-    api_secret: "N28-5FupR4PIfEpn1pdrCIoxzTs"
+    api_key: "71597214XXXXX",
+    api_secret: "N28-5FupR4PIfEpn1XXXXXX"
 });
 
 module.exports = {
